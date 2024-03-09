@@ -3,7 +3,6 @@
 #        რომ მამა დიდია დედაზე. მინიშნება დაგჭირდებათ (if)
 
 print("tu gainteresebs dadasheni ufro didia tu mamasheni")
-
 print("upasuxe qvemot mocemul kitxvebs:) ")
 user_kitxva = input("tanaxma xar: ")
 
