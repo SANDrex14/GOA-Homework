@@ -14,7 +14,4 @@ if user_age1 > user_age2:
 
 if user_age1 < user_age2:
     print("mamasheni ufro didia dedashenze")
-
-
-
-
+    
