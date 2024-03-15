@@ -166,14 +166,14 @@ color("white")
 
 
 
-forward(300)
+forward(325)
 
 left(180)
 left(90)
 left(40)
 color("yellow")
 width(150)
-forward(30)
+forward(5)
 color("black")
 color("yellow")
 

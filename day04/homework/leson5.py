@@ -1,7 +1,7 @@
 name = "me var sandro"
 surname = "chapidze male gavxdebi "
 
-age = 14 #is
+age = 14 
 
 
 

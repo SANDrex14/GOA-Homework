@@ -13,29 +13,30 @@ print("seni nisnebis gamotvlit gaigeb caabare tu ara")
 user_kitxva = int(input("ra miige: "))
 
 
-if user_kitxva < 100:
+if user_kitxva > 90 and user_kitxva < 100:
     print("tqven dagipinansdat swavla srulad")
+
 elif user_kitxva :
-    print("sauketesoa")
+    print(" tqven dagipinansdat swavla srulad")
 
 
     print("tqven dagipinansdat swavla 1 500 larit")
-elif user_kitxva  < 80:
-    print("umagaria")
+elif user_kitxva > 80 and user_kitxva < 90:
+    print("tqven dagipinansdat swavla 1 500 larit")
 
 
     print("tqven dagipinansdat swavla 1 000 larit")
-elif user_kitxva  < 80:
+elif user_kitxva  > 70 and user_kitxva < 80:
     print("yocag")
 
 
     print("tqven dagipinansdat swavla 500 larit")
-elif user_kitxva  < 70:
+elif user_kitxva  > 60 and user_kitxva < 70:
     print("kargia")
 
 
     print("tqven dagipinansdat swavla 200 larit")
-elif user_kitxva  < 60:
+elif user_kitxva  < 50 and user_kitxva > 60:
     print("araushavs gamoasworeb")
 
 
