@@ -5,7 +5,7 @@ print=name
 
 
 name = "sandro"
-age = 14
+age = 13
 print(name+" "+age)
 #sityvas ver dauateb rcxvs amistvis wirdeba ctr print(name+" "+ctr(age))
 
