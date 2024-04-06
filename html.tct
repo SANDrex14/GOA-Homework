@@ -23,5 +23,11 @@ href - dasaklikeblad
 
  <p>my name is <a href="ლინკი">sandro</a></p> - ლინკის სრული კოდი
 
+ul - ara dalagebuli
+ol - dalagebuli
+li - damxmare
 
-
+<img src="ფგარგ"hrf"აგწერა"  width"300"  height"200"> - ფოტოს ჩასმა
+hrf - აღწერა
+width - ზომა
+height - სიმაღლე
