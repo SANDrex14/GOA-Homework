@@ -36,4 +36,15 @@ height - სიმაღლე
 <h1>sandro</h1>  <br><br><br><br><br>
 <h2> id="mylastname">Capidze</h2>
 <h1> id="fago">17</h1>
-- რამდენით ჩამოვიდეს
+br - რამდენით ჩამოვიდეს
+ 
+
+
+ <form>
+    <input type="text"placeholder=" name">
+    <br><br>
+    <input type="text"placeholder=" email">
+    <br><br>
+    <input type="text"placeholder=" password">
+</form>
+პაროლის და სახელის შეყვანა
