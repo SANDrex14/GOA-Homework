@@ -48,3 +48,13 @@ br - რამდენით ჩამოვიდეს
     <input type="text"placeholder=" password">
 </form>
 პაროლის და სახელის შეყვანა
+
+
+
+
+<form>
+<label for="email" >email</label>
+<input type="email" placeholder="text@gmail.com">
+<br><br>
+</form>    
+        
