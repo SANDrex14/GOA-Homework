@@ -58,3 +58,15 @@ br - რამდენით ჩამოვიდეს
 <br><br>
 </form>    
         
+
+
+<label for="dropdown">
+<select>
+   
+<option>Red</option>
+<option>Blue</option>
+<option value="H"></option>
+
+</select>
+
+<!-- options -- არჩევანი -->
