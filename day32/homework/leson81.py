@@ -1,8 +1,10 @@
-goa_is_the_best = "goa is the best"
 
-for index, char in enumerate(goa_is_the_best):
-    if char == " ":
-        goa_is_the_best = goa_is_the_best[:index] + " " + goa_is_the_best[index:]
-        break
+new_goa = ""
+goa = "Goa Is The Best"
 
-print(goa_is_the_best)
+
+goa = "Goa Is The Best"
+for i in goa:
+    if i != " ":
+        new_goa += i
+print(new_goa)

@@ -1,11 +1,10 @@
-goa = "Goa is best"
+goa = "Goa is the best"
 
-result = ""
+new_goa = ""
 
-for i in range(11):
-    result += goa[i]
 
-    print(i)
+for char in range(len(goa)):
+    if goa[char] != " ":
+        new_goa += goa[char]
 
-print(result)
-
+print(new_goa)
