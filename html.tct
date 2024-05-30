@@ -68,5 +68,11 @@ br - რამდენით ჩამოვიდეს
 <option value="H"></option>
 
 </select>
+ -- არჩევანი 
 
-<!-- options -- არჩევანი -->
+
+ header -- თავი
+
+ mani -- ტანი
+
+ footer -- ძირი
