@@ -1,4 +1,4 @@
-#print("ra gamogyva skolasi")
+
 #x = input(" pirvel semestrsi?:  ")
 #y = input("meore semestrsi?: ")
 
@@ -6,6 +6,7 @@
 
 #print(a // 2)
 
+print("ra gamogyva skolasi")
 score1 = int(input("pirweli nisani "))
 score2 = int(input("meore nisani "))
 score3 = int(input("mesame nisani "))

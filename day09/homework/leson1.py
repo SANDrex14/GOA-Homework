@@ -5,4 +5,5 @@ user_age1 = input("ramdeni wlisaa dedaseni? ")
 user_age2 = input("ramdeni wlisaa mamaseni? ")
 
 print("tu iqneba fols esegi dedaseni ufro didia da tu true esego mamaseni")
+
 print(user_age1 < user_age2)

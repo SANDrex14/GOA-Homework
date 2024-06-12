@@ -36,6 +36,9 @@ height - სიმაღლე
 <h1>sandro</h1>  <br><br><br><br><br>
 <h2> id="mylastname">Capidze</h2>
 <h1> id="fago">17</h1>
+
+
+
 br - რამდენით ჩამოვიდეს
  
 
@@ -76,3 +79,9 @@ br - რამდენით ჩამოვიდეს
  mani -- ტანი
 
  footer -- ძირი
+
+
+ style="color: blue რა ფერი გვინდა
+ font-size: - რამხელაძე გადიდდეს
+ bgcolor - უკანა ფონი
+style = "border : 1px solder red" ჩარჩოს ფერი
