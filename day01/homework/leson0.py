@@ -8,6 +8,10 @@ height =   1.51 #es aris float tipis cvladi( atwiladi)
 print(name +" "+ surname +" "+ str(age) +" "+ str(height)) 
 
 
+
+
+
+
 #stringi aris brwyalebci moqceuli simboloebi
 
 
